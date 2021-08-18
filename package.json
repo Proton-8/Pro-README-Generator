@@ -1,0 +1,19 @@
+{
+  "name": "pro-readme-generator",
+  "version": "1.0.0",
+  "description": "Create a README file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proton-8/Pro-README-Generator.git"
+  },
+  "author": "Ron Shutter",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/Proton-8/Pro-README-Generator/issues"
+  },
+  "homepage": "https://github.com/Proton-8/Pro-README-Generator#readme"
+}
