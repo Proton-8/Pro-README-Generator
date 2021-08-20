@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Proton-8/Pro-README-Generator/issues"
   },
-  "homepage": "https://github.com/Proton-8/Pro-README-Generator#readme"
+  "homepage": "https://github.com/Proton-8/Pro-README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
 }
